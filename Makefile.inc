@@ -1,6 +1,6 @@
-APPL_COBJS += 
+APPL_COBJS +=
 
-APPL_CXXOBJS +=
+APPL_CXXOBJS += Driver.o Receiver.o
 
 SRCLANG := c++
 
